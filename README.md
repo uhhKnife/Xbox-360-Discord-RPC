@@ -14,7 +14,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/Xbox-360-Discord-RPC.git
+   git clone https://github.com/uhhKnife/Xbox-360-Discord-RPC.git
    ```
 2. **Open the solution in Visual Studio (or your preferred C# IDE).**
 3. **Restore NuGet packages** (if required).
