@@ -30,7 +30,7 @@
 
 ## Configuration
 
-- You may need to configure your Discord Application ID in the settings.
+- You may need to configure your Discord Application ID in the the Program.cs file BEFORE COMPILING!!!
 
 ## Requirements
 
