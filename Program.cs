@@ -19,7 +19,7 @@ class Program
     {
         try
         {
-            discord = new DiscordRpcClient("1376213828366368908");
+            discord = new DiscordRpcClient("YOUR_APPID_HERE");
             discord.Initialize();
 
             loadCsv("titles.csv");
