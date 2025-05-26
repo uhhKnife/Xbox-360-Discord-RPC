@@ -1,6 +1,6 @@
 # Xbox-360-Discord-RPC
 
-**Xbox 360 Discord Rich Presence** is a C# application that brings Xbox 360 game status to your Discord profile using Discord's Rich Presence API. Show your friends what Xbox 360 game you're playing, complete with game details and artwork, right on your Discord status!
+**Xbox 360 Discord Rich Presence** is a C# application that brings Xbox 360 game status to your Discord profile using Discord's Rich Presence API. Show your friends what Xbox 360 game you're playing, right on your Discord status!
 
 ## Features
 
