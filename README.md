@@ -12,14 +12,7 @@
 
 ## Installation
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/uhhKnife/Xbox-360-Discord-RPC.git
-   ```
-2. **Open the solution in Visual Studio (or your preferred C# IDE).**
-3. **Restore NuGet packages** (if required).
-4. **Build the project.**
-5. **Run the executable** from the `bin/Release` or `bin/Debug` folder.
+Grab latest release.
 
 ## Usage
 
