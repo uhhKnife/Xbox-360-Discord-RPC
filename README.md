@@ -24,9 +24,8 @@
 ## Usage
 
 1. Launch the application.
-2. Make sure Discord is running on your PC.
-3. Start your Xbox 360 game.
-4. Your Discord status will automatically update to show your current game.
+2. Start your Xbox 360 game.
+3. Your Discord status will automatically update to show your current game.
 
 ## Configuration
 
